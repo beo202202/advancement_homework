@@ -67,3 +67,9 @@ person = {'name': 'John', 'age': 30, 'gender': 'male'}
 
 print('name' in person)  # True
 print('email' in person)  # False
+
+# 9
+# keys: key들만 반환
+
+# 10
+# values: value들만 반환
